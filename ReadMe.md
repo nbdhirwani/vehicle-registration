@@ -1,6 +1,6 @@
 ###Pre-requisites
 - Java 11 (or later) Development kit installed.
-- Maven 
+- Apache Maven 3.6.3 or above 
 
 ###Helpful maven targets to build and execute the application
 - `mvn test` Will execute all the tests.
